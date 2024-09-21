@@ -1,0 +1,19 @@
+
+#aboutMeTitle {
+    padding: 30px;
+    color: rgba(49, 33, 33, 0.432) !important;
+}
+
+#aboutMeSection {
+    font-weight: 400;
+    background-color: rgba(89, 121, 82, 0.902);
+    padding: 30px;
+    border-radius: 15%;
+}
+
+body {
+    background-image: linear-gradient(rgb(35, 101, 128), rgba(52, 25, 172, 0.795));
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin: 0;
+}

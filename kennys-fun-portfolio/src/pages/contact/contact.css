@@ -1,0 +1,24 @@
+#contactMe {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    align-content: center;
+    margin-bottom: 8vh ;
+    font-size: 5em;
+    font-weight: 450 !important;
+    color: rgba(243, 240, 50, 0.534);
+}
+
+#contactForm {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    height: 95vh;
+}
+
+#SubmitButton {
+    background-color: rgba(98, 230, 186, 0.658);
+    border: rgba(221, 60, 173, 0.829);
+    color: rgb(122, 71, 122);
+    font-weight: 500;
+}

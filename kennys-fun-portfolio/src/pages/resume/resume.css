@@ -1,0 +1,13 @@
+#resume {
+    margin: 45px;
+    padding: 45px;
+    font-weight: 400;
+    background-color: rgb(86, 173, 74);
+    border-radius: 6%;
+}
+
+#resumecontainer {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
